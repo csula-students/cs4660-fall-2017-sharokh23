@@ -1,0 +1,8 @@
+link to my solution:
+https://github.com/csula-students/cs4660-fall-2017-sharokh23/blob/quiz-2/cs4660/main.py
+
+BFS Path:
+Total hp = 10
+
+Dijkstra Path:
+Total hp = 70
